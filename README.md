@@ -1,0 +1,2 @@
+# testcluster_rec
+testclusterのデータをwinsockで受信するためのプログラム
